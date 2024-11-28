@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lolol\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\prject\\MuromskyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAE997F4-AFA0-4A82-8FC1-3F1D57DA8B28}|MuromskyTest\\MuromskyTest.csproj|c:\\users\\lolol\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\prject\\muromskytest\\muromskytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE997F4-AFA0-4A82-8FC1-3F1D57DA8B28}|MuromskyTest\\MuromskyTest.csproj|solutionrelative:muromskytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lolol\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\prject\\MuromskyTest\\MuromskyTest\\Program.cs",
+              "RelativeDocumentMoniker": "MuromskyTest\\Program.cs",
+              "ToolTip": "C:\\Users\\lolol\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\prject\\MuromskyTest\\MuromskyTest\\Program.cs",
+              "RelativeToolTip": "MuromskyTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:46:51.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

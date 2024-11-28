@@ -1,0 +1,15 @@
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\bin\Debug\net8.0\MuromskyTest.exe
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\bin\Debug\net8.0\MuromskyTest.deps.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\bin\Debug\net8.0\MuromskyTest.runtimeconfig.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\bin\Debug\net8.0\MuromskyTest.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\bin\Debug\net8.0\MuromskyTest.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.AssemblyInfoInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.AssemblyInfo.cs
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.csproj.CoreCompileInputs.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.sourcelink.json
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\refint\MuromskyTest.dll
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.pdb
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\MuromskyTest.genruntimeconfig.cache
+C:\Users\lolol\OneDrive\Документы\GitHub\practis\prject\MuromskyTest\MuromskyTest\obj\Debug\net8.0\ref\MuromskyTest.dll
